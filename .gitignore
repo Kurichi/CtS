@@ -58,7 +58,7 @@ coverage
 bower_components
 .lock-wscript
 build/Release
-node_modules/
+server/node_modules/
 jspm_packages/
 typings/
 .npm
@@ -68,4 +68,4 @@ typings/
 .yarn-integrity
 .env
 .next
-/dist
+server/dist
