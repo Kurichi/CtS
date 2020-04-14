@@ -1,4 +1,4 @@
-# cts-client
+# server
 
 ## Project setup
 ```
